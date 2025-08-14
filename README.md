@@ -1,4 +1,4 @@
-# 🧼🧴🫧🧽🛒 Creación de una Página Web para un Negocio
+# 🧼🧴 Creación de una Página Web para un Negocio 🛒🧽🫧
 
 ## 📌 Descripción  
 Este proyecto consiste en el desarrollo de una página web para una empresa dedicada a la fabricación y venta de **jabones y productos de aseo industrial**, con la **integración de un área de préstamos financieros**, ya que la empresa también quiere explorar esta línea de negocio.  
