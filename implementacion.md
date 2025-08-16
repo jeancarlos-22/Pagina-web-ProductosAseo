@@ -20,7 +20,7 @@ proyecto/
 │── index.html # Estructura principal de la web
 │── styles.css # Estilos personalizados
 │── script.js # Interactividad y lógica
-│── 
+
 
 ---
 
