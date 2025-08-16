@@ -10,7 +10,7 @@ form.addEventListener('submit', function(e) {
 
     if(nombre && monto && telefono) {
         // Número de WhatsApp de destino (ejemplo: tu número)
-        const numero = "573173726547"; // <-- cámbialo por el tuyo con código de país
+        const numero = "573173726547"; // <-- Numero de whatsapp con prefijo del pais
 
         // Mensaje que se enviará
         const mensaje = `Hola, mi nombre es ${nombre}. Quiero un préstamo por $${monto}. Mi teléfono de contacto es ${telefono}.`;
